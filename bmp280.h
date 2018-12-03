@@ -2,6 +2,7 @@
 #define _BMP280_LIB_H_
 
 #include <math.h>
+#include <stdint.h>
 //#include "i2c-soft.h"
 
 #ifndef BMP280_ADDR

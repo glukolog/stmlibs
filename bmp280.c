@@ -1,5 +1,3 @@
-#include <stddef.h>
-#include <stdio.h>
 #include "bmp280.h"
 
 char BMP280_Init() {
